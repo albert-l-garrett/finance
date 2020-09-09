@@ -3,7 +3,6 @@ ipywidgets
 IPython
 pandas
 numpy
-types
 qgrid
 collections
 datetime
