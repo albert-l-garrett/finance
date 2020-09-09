@@ -1,5 +1,4 @@
 voila
-builtins
 ipywidgets
 IPython.display
 os
