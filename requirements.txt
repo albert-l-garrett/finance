@@ -4,6 +4,5 @@ IPython
 pandas
 numpy
 qgrid
-collections
 datetime
 pymongo
