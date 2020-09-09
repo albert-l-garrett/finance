@@ -6,3 +6,4 @@ numpy
 qgrid
 datetime
 pymongo
+dnspython
