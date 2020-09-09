@@ -1,7 +1,6 @@
 voila
 ipywidgets
 IPython
-os
 pandas
 numpy
 types
