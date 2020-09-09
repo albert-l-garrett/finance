@@ -1,6 +1,6 @@
 voila
 ipywidgets
-IPython.display
+IPython
 os
 pandas
 numpy
